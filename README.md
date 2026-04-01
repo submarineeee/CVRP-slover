@@ -1,6 +1,6 @@
 # CVRP Solver — Operations Research Project
 
-**Course:** Operations Research and Logistics · TU Dresden (2026)  
+**Course:** Operations Research and Logistics · TU Dresden (WS/2025 2026)  
 **Language:** C++ · **Solver:** SCIP Optimization Suite  
 **Status:** Completed · All instances solved to optimality (0.00% gap)
 
