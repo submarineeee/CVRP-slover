@@ -1,0 +1,95 @@
+<problem_data>
+  <graph_data>
+    <node_data>
+        <node ID='54' x='17' y='9' digit='9'/>
+        <node ID='49' x='17' y='7' digit='9'/>
+        <node ID='53' x='17' y='11' digit='9'/>
+        <node ID='52' x='19' y='11' digit='9'/>
+        <node ID='51' x='19' y='9' digit='9'/>
+        <node ID='50' x='19' y='7' digit='9'/>
+        <node ID='9' x='5' y='3' digit='1'/>
+        <node ID='8' x='7' y='5' digit='1'/>
+        <node ID='7' x='7' y='3' digit='1'/>
+        <node ID='6' x='7' y='1' digit='1'/>
+        <node ID='20' x='13' y='5' digit='3'/>
+        <node ID='21' x='13' y='3' digit='3'/>
+        <node ID='16' x='13' y='1' digit='3'/>
+        <node ID='19' x='15' y='5' digit='3'/>
+        <node ID='18' x='15' y='3' digit='3'/>
+        <node ID='17' x='15' y='1' digit='3'/>
+        <node ID='31' x='1' y='11' digit='5'/>
+        <node ID='32' x='1' y='9' digit='5'/>
+        <node ID='27' x='1' y='7' digit='5'/>
+        <node ID='30' x='3' y='11' digit='5'/>
+        <node ID='29' x='3' y='9' digit='5'/>
+        <node ID='28' x='3' y='7' digit='5'/>
+        <node ID='22' x='19' y='1' digit='4'/>
+        <node ID='23' x='19' y='3' digit='4'/>
+        <node ID='24' x='19' y='5' digit='4'/>
+        <node ID='25' x='17' y='5' digit='4'/>
+        <node ID='26' x='17' y='3' digit='4'/>
+    </node_data>
+    <arc_data>
+        <arc ID='0' from='54' to='53' length='2' />
+        <arc ID='1' from='53' to='54' length='2' />
+        <arc ID='2' from='53' to='52' length='2' />
+        <arc ID='3' from='52' to='53' length='2' />
+        <arc ID='4' from='52' to='51' length='2' />
+        <arc ID='5' from='51' to='52' length='2' />
+        <arc ID='6' from='51' to='54' length='2' />
+        <arc ID='7' from='54' to='51' length='2' />
+        <arc ID='8' from='51' to='50' length='2' />
+        <arc ID='9' from='50' to='51' length='2' />
+        <arc ID='10' from='50' to='49' length='2' />
+        <arc ID='11' from='49' to='50' length='2' />
+        <arc ID='12' from='6' to='7' length='2' />
+        <arc ID='13' from='7' to='6' length='2' />
+        <arc ID='14' from='7' to='8' length='2' />
+        <arc ID='15' from='8' to='7' length='2' />
+        <arc ID='16' from='8' to='9' length='2.83' />
+        <arc ID='17' from='9' to='8' length='2.83' />
+        <arc ID='18' from='16' to='17' length='2' />
+        <arc ID='19' from='17' to='16' length='2' />
+        <arc ID='20' from='17' to='18' length='2' />
+        <arc ID='21' from='18' to='17' length='2' />
+        <arc ID='22' from='18' to='19' length='2' />
+        <arc ID='23' from='19' to='18' length='2' />
+        <arc ID='24' from='18' to='21' length='2' />
+        <arc ID='25' from='21' to='18' length='2' />
+        <arc ID='26' from='19' to='20' length='2' />
+        <arc ID='27' from='20' to='19' length='2' />
+        <arc ID='28' from='31' to='30' length='2' />
+        <arc ID='29' from='30' to='31' length='2' />
+        <arc ID='30' from='31' to='32' length='2' />
+        <arc ID='31' from='32' to='31' length='2' />
+        <arc ID='32' from='32' to='29' length='2' />
+        <arc ID='33' from='29' to='32' length='2' />
+        <arc ID='34' from='29' to='28' length='2' />
+        <arc ID='35' from='28' to='29' length='2' />
+        <arc ID='36' from='28' to='27' length='2' />
+        <arc ID='37' from='27' to='28' length='2' />
+        <arc ID='38' from='54' to='6' length='12.81' />
+        <arc ID='39' from='6' to='54' length='12.81' />
+        <arc ID='40' from='9' to='16' length='8.25' />
+        <arc ID='41' from='16' to='9' length='8.25' />
+        <arc ID='42' from='21' to='27' length='12.65' />
+        <arc ID='43' from='27' to='21' length='12.65' />
+        <arc ID='44' from='49' to='32' length='16.12' />
+        <arc ID='45' from='22' to='23' length='2' />
+        <arc ID='46' from='23' to='22' length='2' />
+        <arc ID='47' from='23' to='26' length='2' />
+        <arc ID='48' from='26' to='23' length='2' />
+        <arc ID='49' from='23' to='24' length='2' />
+        <arc ID='50' from='24' to='23' length='2' />
+        <arc ID='51' from='26' to='25' length='2' />
+        <arc ID='52' from='25' to='26' length='2' />
+        <arc ID='53' from='32' to='22' length='19.7' />
+        <arc ID='54' from='22' to='32' length='19.7' />
+        <arc ID='55' from='26' to='49' length='4' />
+        <arc ID='56' from='49' to='26' length='4' />
+    </arc_data>
+  </graph_data>
+  <vehicles></vehicles>
+  <depots></depots>
+  <requests></requests>
+</problem_data>
